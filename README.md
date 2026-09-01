@@ -82,19 +82,15 @@ B.Tech CSE Student | Full Stack Developer | AI/ML Enthusiast
   <img src="https://raw.githubusercontent.com/Akshatgarg-007/Akshatgarg-007/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/akshat-garg-19b31932a?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Akshatgarg-007">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/akshat-garg-19b31932a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Akshatgarg-007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ## 🎓 Education
