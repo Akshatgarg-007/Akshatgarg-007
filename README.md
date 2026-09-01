@@ -5,8 +5,8 @@ B.Tech CSE Student | Full Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Akshatgarg-007">
+    <img src="https://komarev.com/ghpvc/?username=Akshatgarg-007&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ B.Tech CSE Student | Full Stack Developer | AI/ML Enthusiast
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Akshatgarg-007/Akshatgarg-007/output/github-contribution-grid-snake.svg" />
 </p>
 
 
